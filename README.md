@@ -1,7 +1,2 @@
-# data_analytics
-All the assignments for Data analytics with slides
-
-[![wakatime](https://wakatime.com/badge/github/sesiii/data_analytics.svg)](https://wakatime.com/badge/github/sesiii/data_analytics)
-
-
-abc
+# CS61061 Data Analytics 
+This repository contains all my Data Analytics Assignments.
